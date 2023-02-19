@@ -1,4 +1,3 @@
-import './App.css';
 import ReactForm from './useForm/react-form';
 
 function App() {
